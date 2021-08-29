@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I`m yuu 👋
 
 <!--
 **yuuffff1212/yuuffff1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p aling='left'>
+  <img alt="top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuuffff1212&layout=compact&theme=radical&title_color=blue)" />
+  <img alt="github stats" height="150ps" src="https://github-readme-stats.vercel.app/api?username=yuuffff1212&show_icons=true&theme=radical&title_color=blue&layout=compact" />
+</p>
+
+
+
