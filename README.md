@@ -20,6 +20,7 @@ Here are some ideas to get you started:
   <img alt="github stats" height="150ps" src="https://github-readme-stats.vercel.app/api?username=yuuffff1212&show_icons=true&theme=radical&title_color=blue&layout=compact" />
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=yuuffff1212&theme=onedark&row=2&column=7)](https://github.com/yuuffff1212/github-profile-trophy)
 
 [![](https://raw.githubusercontent.com/yuuffff1212/yuuffff1212/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/yuuffff1212/yuuffff1212/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yuuffff1212/yuuffff1212/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
