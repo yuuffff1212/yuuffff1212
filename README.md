@@ -22,8 +22,10 @@ Here are some ideas to get you started:
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuuffff1212&theme=blue_green)
+<!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuuffff1212&theme=blue_green)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuuffff1212&theme=blue_green)
+-->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuuffff1212&theme=blue_green)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yuuffff1212&theme=blue_green&utcOffset=8)
 
